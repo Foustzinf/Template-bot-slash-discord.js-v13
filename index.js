@@ -17,4 +17,4 @@ require("./handler")(client);
 //   .on("debug", console.log)
 //   .on("warn", console.log)
 // 	.on("erro",
-client.login("TOKEN DO SEU BOT");
+client.login("OTcxODQxMDkyNzA0MTcwMDU0.GdUH5t.BiTRlkUF18-h2VnfumzqTkb0tn63GBt9wVWtVA");
